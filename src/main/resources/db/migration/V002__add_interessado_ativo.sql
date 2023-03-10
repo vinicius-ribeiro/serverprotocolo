@@ -1,0 +1,1 @@
+ALTER TABLE public.interessado ADD ativo boolean NULL DEFAULT true;
